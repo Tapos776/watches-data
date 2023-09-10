@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Analog Watch",
+        "price": 99.99
+    },
+    {
+        "id": 2,
+        "name": "Digital Sports Watch",
+        "price": 49.99
+    },
+    {
+        "id": 3,
+        "name": "Luxury Chronograph Watch",
+        "price": 299.99
+    },
+    {
+        "id": 4,
+        "name": "Smartwatch",
+        "price": 199.99
+    },
+    {
+        "id": 5,
+        "name": "Dive Watch",
+        "price": 149.99
+    },
+    {
+        "id": 6,
+        "name": "Minimalist Leather Watch",
+        "price": 79.99
+    },
+    {
+        "id": 7,
+        "name": "Fashionable Rose Gold Watch",
+        "price": 119.99
+    },
+    {
+        "id": 8,
+        "name": "Military Style Watch",
+        "price": 69.99
+    },
+    {
+        "id": 9,
+        "name": "Automatic Skeleton Watch",
+        "price": 249.99
+    },
+    {
+        "id": 10,
+        "name": "Fitness Tracker Watch",
+        "price": 59.99
+    },
+    {
+        "id": 11,
+        "name": "Vintage Pocket Watch",
+        "price": 129.99
+    },
+    {
+        "id": 12,
+        "name": "Elegant Diamond Watch",
+        "price": 349.99
+    },
+    {
+        "id": 13,
+        "name": "Aviator Pilot Watch",
+        "price": 179.99
+    },
+    {
+        "id": 14,
+        "name": "Stainless Steel Dive Watch",
+        "price": 169.99
+    },
+    {
+        "id": 15,
+        "name": "Business Casual Watch",
+        "price": 89.99
+    },
+    {
+        "id": 16,
+        "name": "Rugged Outdoor Watch",
+        "price": 129.99
+    },
+    {
+        "id": 17,
+        "name": "Vintage Wooden Watch",
+        "price": 109.99
+    },
+    {
+        "id": 18,
+        "name": "Smart Fitness Watch",
+        "price": 129.99
+    },
+    {
+        "id": 19,
+        "name": "Rose Gold Diamond Watch",
+        "price": 299.99
+    },
+    {
+        "id": 20,
+        "name": "Fashionable Leather Watch",
+        "price": 79.99
+    }
+]
